@@ -48,5 +48,6 @@ Vendas e Controle de Estoque - JAVA
 ![alt Tela de finaças](https://github.com/ErnaniMontanari/Vendas-e-Controle-de-Estoque-JAVA/blob/master/prints/novo_lancamento.jpg?raw=true)
 <br><br>
 # Outros
-![Badge License MIT] (https://img.shields.io/github/license/ErnaniMontanari/Vendas-e-Controle-de-Estoque-JAVA)
-![Badge Language JAVA] (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Badge License MIT](https://img.shields.io/github/license/ErnaniMontanari/Vendas-e-Controle-de-Estoque-JAVA)
+<br>
+![Badge Language JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
